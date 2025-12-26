@@ -1,6 +1,3 @@
 {
-  "version": 2,
-  "env": {
-    "CLOUDFLARE_TUNNEL_URL": "@cloudflare-tunnel-url"
-  }
+  "version": 2
 }
