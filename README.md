@@ -14,3 +14,4 @@ Simple Vercel app that redirects to the Raspberry Pi random color site via Cloud
 - Redirects to current Cloudflare tunnel URL
 - Pi's tunnelNotifier updates the URL automatically on restart
 - No downtime even during Pi power outages
+# Deployment trigger
