@@ -1,0 +1,13 @@
+{
+  "name": "color-redirect",
+  "version": "1.0.0",
+  "description": "Simple redirect to Raspberry Pi color site via Cloudflare tunnel",
+  "main": "api/index.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vercel": "^33.0.0"
+  }
+}
